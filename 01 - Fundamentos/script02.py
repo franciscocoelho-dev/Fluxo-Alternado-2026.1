@@ -42,3 +42,5 @@ def exibir_dados(nome: str, idade: int, email: Optional[str] = None):
 
 
 print(exibir_dados('Maria', 20, 'maria@gmail.com'))
+
+
